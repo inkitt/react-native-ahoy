@@ -1,0 +1,38 @@
+{
+  "name": "react-native-ahoy",
+  "version": "0.0.1",
+  "description": "A React Native library for Ahoy integration on Rails backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkitt/react-native-ahoy.git"
+  },
+  "author": "Inkitt Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react-native-queue": "https://github.com/inkitt/react-native-queue-asyncstorage"
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "24.0.0",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react": "16.6.3",
+    "react-native": "0.58.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
