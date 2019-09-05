@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.11",
-    "react-native-queue": "https://github.com/inkitt/react-native-queue-asyncstorage.git"
+    "react-native-queue": "https://github.com/inkitt/react-native-queue-asyncstorage.git#async-storage-galatea-384"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
