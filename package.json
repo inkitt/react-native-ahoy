@@ -20,6 +20,7 @@
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
+    "@react-native-community/netinfo": "^4.2.0",
     "babel-jest": "24.0.0",
     "eslint": "^5.12.1",
     "eslint-config-airbnb": "^17.1.0",
@@ -29,7 +30,7 @@
     "jest": "24.0.0",
     "metro-react-native-babel-preset": "0.51.1",
     "react": "16.6.3",
-    "react-native": "0.58.1",
+    "react-native": "0.59.10",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
