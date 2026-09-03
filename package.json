@@ -30,7 +30,7 @@
     "jest": "24.0.0",
     "metro-react-native-babel-preset": "0.51.1",
     "react": "16.6.3",
-    "react-native": "0.59.10",
+    "react-native": "0.87.1",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
